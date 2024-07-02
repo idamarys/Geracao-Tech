@@ -1,0 +1,1 @@
+var firstNumber = parseFloat()
