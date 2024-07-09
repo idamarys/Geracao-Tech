@@ -1,3 +1,4 @@
+http://www.mtecbo.gov.br/cbosite/pages/pesquisas/BuscaPorTitulo.jsf
 https://app.enhancv.com/onboarding#1
 https://baydigital.com.br/nosso-portfolio/
 https://bitwarden.com/
@@ -22,6 +23,7 @@ https://lawsofux.com/
 https://learngitbranching.js.org/?locale=pt_BR&demo=
 https://medium.com/@meenakshi052003/choose-the-best-platforms-to-practice-sql-online-075358b3051e
 https://nic.br/
+https://pesquisa.codigofonte.com.br/2024
 https://profile-readme-generator.com/
 https://search.worldcat.org/pt
 https://semver.org/lang/pt-BR/
@@ -31,6 +33,7 @@ https://tailwindcss.com/docs/installation/play-cdn
 https://techatual.com/
 https://thedotgood.net/ranking/2024-world-200-sgos/
 https://www.99jobs.com/luizalabs/jobs
+https://www.amazon.com.br/Codificador-Limpo-Bob-Martin/dp/8576086476
 https://www.braziljs.org/
 https://www.builder.io/
 https://www.ceara.gov.br/radar-de-oportunidades/
@@ -56,6 +59,7 @@ https://www.meninashoes.com.br/blog/tenis-nike-branco/
 https://www.meninashoes.com.br/outlet/tenis?initialMap=c,c&initialQuery=outlet/tenis&map=category-1,category-2,tamanho,tamanho,tamanho,tamanho&order=OrderByPriceASC&page=4&query=/outlet/tenis/39/39-40/39-italia---37-brasil/41-italia---39-brasil&searchState
 https://www.mirao.com.br/blog/post/melhor-setup-para-2024-guia-de-dicas-para-escolher-o-melhor-setup-para-esse-ano
 https://www.novatec.com.br/livros/logica-programacao-algoritmos-com-javascript-2ed/
+https://www.ocupacoes.com.br/cbo-mte/317110-programador-de-sistemas-de-informacao#google_vignette
 https://www.origamid.com/?utm_medium=adwords&utm_campaign=&utm_source=&gad_source=1&gclid=CjwKCAjw-O6zBhASEiwAOHeGxZMbv20Fx7rHIJ5ZW7ORIAaD85pldOL5veIiG5lWn5FoOGxgUVxi6xoCUfcQAvD_BwE
 https://www.reddit.com/r/SQL/comments/11wogjb/where_to_practice_sql/?rdt=34328
 https://www.research.net/
