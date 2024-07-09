@@ -20,8 +20,10 @@ https://js.org/?
 https://lawsofux.com/
 https://learngitbranching.js.org/?locale=pt_BR&demo=
 https://medium.com/@meenakshi052003/choose-the-best-platforms-to-practice-sql-online-075358b3051e
+https://nic.br/
 https://profile-readme-generator.com/
 https://search.worldcat.org/pt
+https://semver.org/lang/pt-BR/
 https://servicodados.ibge.gov.br/api/docs/
 https://tailwindcss.com/docs/installation/play-cdn
 https://techatual.com/
@@ -33,6 +35,7 @@ https://www.ceara.gov.br/radar-de-oportunidades/
 https://www.ceara.gov.br/2024/04/04/uece-e-dell-reabrem-inscricoes-para-cursos-gratuitos-do-programa-ensino-digital/
 https://www.cod3r.com.br/
 https://www.codewars.com/
+https://www.conventionalcommits.org/en/v1.0.0/
 https://www.ef.com.br/certificados-ingles/comparacao/
 https://www.ef.com.br/certificados-ingles/efset/?semcp=S-DSA&semag=DSA-00-00&pkw=DYNAMIC+SEARCH+ADS&opti_ca=931293777&opti_ag=45986541345&opti_ad=686582952170&opti_key=dsa-316671994027&utm_source=google&utm_medium=cpc&utm_campaign=S-DSA&utm_content=GGBRS_DSA_00_00&&semcp=S-DSA&semag=DSA-00-00&pkw=DYNAMIC+SEARCH+ADS&source=007957,GGBRS_DSA_00_00&gad_source=1&gclid=CjwKCAjwyo60BhBiEiwAHmVLJc2cKEPPixoypftbWOgM8qjm5WehkCVVX_4JNQVn1y2E02HJPjSMgBoCafwQAvD_BwE&gclsrc=aw.ds
 https://www.freepdfconvert.com/pt
