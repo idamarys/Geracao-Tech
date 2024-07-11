@@ -19,9 +19,9 @@
 - https://guiadeti.com.br/bondedalpi-linuxtips-curso-linux-gratis/
 - https://horadecodar.com.br/
 - https://htmlcolorcodes.com/roblox-color-codes/
-- https://- http.dog/
+- https://http.dog/
 - https://irede.org.br/#/
-- https://js.org/?
+- https://js.org/
 - https://lawsofux.com/
 - https://learngitbranching.js.org/?locale=pt_BR&demo=
 - https://medium.com/@meenakshi052003/choose-the-best-platforms-to-practice-sql-online-075358b3051e
