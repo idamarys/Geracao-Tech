@@ -28,6 +28,7 @@
 - https://medium.com/@meenakshi052003/choose-the-best-platforms-to-practice-sql-online-075358b3051e
 - https://mockapi.io/
 - https://nic.br/
+- https://patorjk.com/
 - https://pesquisa.codigofonte.com.br/2024
 - https://profile-readme-generator.com/
 - https://search.worldcat.org/pt
