@@ -11,6 +11,7 @@
 - https://exame.com/colunistas/relacionamento-antes-do-marketing/os-dados-nao-sao-mais-o-novo-petroleo/
 - https://expressjs.com/pt-br/
 - https://expressjs.com/pt-br/guide/using-middleware.html
+- https://fetchapi.com/lander
 - https://getbootstrap.com/docs/5.3/helpers/focus-ring/
 - https://git-fork.com/
 - https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md
