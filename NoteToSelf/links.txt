@@ -9,6 +9,8 @@ https://css-tricks.com/
 https://descomplica.com.br/
 https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_media_queries/Using_media_queries
 https://exame.com/colunistas/relacionamento-antes-do-marketing/os-dados-nao-sao-mais-o-novo-petroleo/
+https://expressjs.com/pt-br/
+https://expressjs.com/pt-br/guide/using-middleware.html
 https://getbootstrap.com/docs/5.3/helpers/focus-ring/
 https://git-fork.com/
 https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md
@@ -23,6 +25,7 @@ https://js.org/?
 https://lawsofux.com/
 https://learngitbranching.js.org/?locale=pt_BR&demo=
 https://medium.com/@meenakshi052003/choose-the-best-platforms-to-practice-sql-online-075358b3051e
+https://mockapi.io/
 https://nic.br/
 https://pesquisa.codigofonte.com.br/2024
 https://profile-readme-generator.com/
@@ -48,8 +51,11 @@ https://www.freepdfconvert.com/pt
 https://www.geeksforgeeks.org/sql-exercises/
 https://www.gfire.com.br/
 https://www.google.com/search?gs_ssp=eJzj4tVP1zc0TKnMrUhKLiwxYPQSTc0rSc1LAaJ8hcSc9PyizJLc_GIA_DkNwA&q=entendendo+algoritmos&rlz=1C1GCEU_pt-BRBR1118&oq=entendendo+algorit&gs_lcrp=EgZjaHJvbWUqDQgBEC4YgwEYsQMYgAQyEAgAEAAYgwEY4wIYsQMYgAQyDQgBEC4YgwEYsQMYgAQyBggCEEUYOTIMCAMQABhDGIAEGIoFMgcIBBAAGIAEMgcIBRAAGIAEMgwIBhAAGEMYgAQYigUyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQg3MDA3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=como+os+sinogramas+s%C3%A3o+chamados+em+cada+pa%C3%ADs&sca_esv=74df811e3a5c80f0&sca_upv=1&rlz=1C1GCEU_pt-BRBR1116BR1117&ei=cMaPZoarHpTf1sQPxqumgAs&ved=0ahUKEwiGo8it9Z6HAxWUr5UCHcaVCbAQ4dUDCBA&uact=5&oq=como+os+sinogramas+s%C3%A3o+chamados+em+cada+pa%C3%ADs&gs_lp=Egxnd3Mtd2l6LXNlcnAiLmNvbW8gb3Mgc2lub2dyYW1hcyBzw6NvIGNoYW1hZG9zIGVtIGNhZGEgcGHDrXMyBRAhGKABMgUQIRigAUj2alCtC1ilaXADeACQAQCYAdYBoAGmPKoBBjAuNDUuMrgBA8gBAPgBAZgCMaACqDzCAgoQABiwAxjWBBhHwgILEAAYgAQYsQMYgwHCAgsQLhiABBixAxiDAcICDhAuGIAEGLEDGIMBGIoFwgIFEC4YgATCAhEQLhiABBixAxjRAxiDARjHAcICCBAAGIAEGLEDwgITEC4YgAQYQxjHARiKBRiOBRivAcICChAAGIAEGEMYigXCAg4QABiABBixAxiDARiKBcICIhAuGIAEGEMYxwEYigUYjgUYrwEYlwUY3AQY3gQY4ATYAQHCAgUQABiABMICCxAAGIAEGLEDGIoFwgIOEC4YgAQYsQMY1AIYigXCAgYQABgWGB7CAggQABiiBBiJBcICCBAAGIAEGKIEwgIHECEYoAEYCpgDAIgGAZAGCLoGBggBEAEYFJIHBjMuNDQuMqAH_eAB&sclient=gws-wiz-serp
+https://www.google.com/search?q=como+roubar+sess%C3%A3o+utilizando+token+jwt&rlz=1C1GCEU_pt-BRBR1116BR1117&oq=como+roubar+sess%C3%A3o+utilizand&gs_lcrp=EgZjaHJvbWUqBwgBECEYoAEyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCDc1NTRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=lms+learning+management+system&rlz=1C1GCEU_pt-BRBR1118&oq=lms+le&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQLhgWGB4yCAgIEAAYFhgeMggICRAAGBYYHtIBCDM1NDNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=mobile+first&rlz=1C1GCEU_pt-BRBR1116&oq=mobile+fi&gs_lcrp=EgZjaHJvbWUqCggAEAAYsQMYgAQyCggAEAAYsQMYgAQyBwgBEAAYgAQyBggCEEUYOTIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABKgCALACAA&sourceid=chrome&ie=UTF-8#wptab=si:ACC90nxQLWTp1Pj4tdUwZU29vA-Vn4NhXwefPTNPEG9Y0qztlWU3A4Fr32ioYzDhdATpq21V9gj3dDkQlF8o7l0gKksIFp7W8DBLloTDXEWtSwQ22YYwoxuO_4_3JlI1lkg2r00XvldUC5tyKfY897sIiS3_hFPM0A%3D%3D
+https://www.google.com/search?sca_esv=74df811e3a5c80f0&sca_upv=1&rlz=1C1GCEU_pt-BRBR1116BR1117&q=qual+a+diferen%C3%A7a+entre+sessionstorage+e+localstorage&spell=1&sa=X&ved=2ahUKEwiuyduB8p6HAxV3lZUCHYXJACEQBSgAegQICBAB&biw=1536&bih=730&dpr=1.25
 https://www.hackerrank.com/domains/sql
 https://www.instagram.com/reel/C4LQg-vu1eV/?igsh=MWt1YW43dnJwMjV0dw%3D%3D
 https://www.jsonplaceholder.org/
