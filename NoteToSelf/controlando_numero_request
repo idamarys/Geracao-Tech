@@ -1,0 +1,55 @@
+exemplo em JavaScript para controlar o número de requisições e adicionar um delay após atingir um certo limite. Vamos usar Node.js com async/await para lidar com operações assíncronas. Aqui está um exemplo básico:
+
+```javascript
+const MAX_REQUESTS = 900;
+const RESET_TIME = 60 * 1000; // Tempo em milissegundos para resetar o contador (60 segundos)
+
+let requestCount = 0;
+let resetTime = Date.now() + RESET_TIME;
+
+async function makeRequest() {
+    // Verificando se é necessário resetar o contador
+    if (Date.now() > resetTime) {
+        requestCount = 0;
+        resetTime = Date.now() + RESET_TIME;
+    }
+
+    // Incrementando o contador de requisições
+    requestCount++;
+
+    // Verificando se excedeu o limite de requisições
+    if (requestCount > MAX_REQUESTS) {
+        console.log(`Excedeu o limite de requisições (${MAX_REQUESTS}). Aguardando ${RESET_TIME / 1000} segundos.`);
+        await new Promise(resolve => setTimeout(resolve, RESET_TIME));
+
+        // Resetando o contador e atualizando o tempo de reset
+        requestCount = 0;
+        resetTime = Date.now() + RESET_TIME;
+    }
+
+    // Simulando uma requisição (substitua pelo código real da requisição)
+    console.log(`Fazendo a requisição ${requestCount}`);
+}
+
+// Função para simular múltiplas requisições
+async function main() {
+    const tasks = [];
+    for (let i = 0; i < 1000; i++) { // Exemplo de 1000 requisições
+        tasks.push(makeRequest());
+    }
+
+    await Promise.all(tasks);
+}
+
+// Executando a função principal
+main().catch(err => console.error(err));
+```
+
+Neste exemplo:
+
+1. **MAX_REQUESTS**: Define o número máximo de requisições que podem ser feitas antes de começar a pausa.
+2. **RESET_TIME**: Define o tempo (em milissegundos) após o qual o contador de requisições é resetado (60 segundos neste caso).
+3. **makeRequest()**: Função assíncrona que simula uma requisição. Ela verifica se o número de requisições excedeu o limite (`MAX_REQUESTS`). Se excedeu, espera usando `setTimeout` antes de continuar.
+4. **main()**: Função principal que simula múltiplas requisições (`1000` no exemplo). Usa `Promise.all()` para executar todas as requisições de forma assíncrona.
+
+Este é um exemplo simples para demonstrar como você pode implementar um controle de taxa básico em JavaScript usando async/await e `setTimeout` para adicionar um atraso quando o limite de requisições é atingido. Dependendo do seu ambiente de execução (como no navegador ou em Node.js) e dos requisitos específicos do seu servidor, você pode precisar ajustar o código para atender às suas necessidades exatas, especialmente em termos de persistência de estado do contador entre reinicializações do servidor.
