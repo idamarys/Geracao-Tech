@@ -48,6 +48,8 @@
 - https://www.cod3r.com.br/
 - https://www.codewars.com/
 - https://www.conventionalcommits.org/en/v1.0.0/
+- https://www.devmedia.com.br/construtores-em-java-primeiros-passos/28618
+- https://www.dio.me/articles/construtores-em-java
 - https://www.ef.com.br/certificados-ingles/comparacao/
 - https://www.ef.com.br/certificados-ingles/efset/?semcp=S-DSA&semag=DSA-00-00&pkw=DYNAMIC+SEARCH+ADS&opti_ca=931293777&opti_ag=45986541345&opti_ad=686582952170&opti_key=dsa-316671994027&utm_source=google&utm_medium=cpc&utm_campaign=S-DSA&utm_content=GGBRS_DSA_00_00&&semcp=S-DSA&semag=DSA-00-00&pkw=DYNAMIC+SEARCH+ADS&source=007957,GGBRS_DSA_00_00&gad_source=1&gclid=CjwKCAjwyo60BhBiEiwAHmVLJc2cKEPPixoypftbWOgM8qjm5WehkCVVX_4JNQVn1y2E02HJPjSMgBoCafwQAvD_BwE&gclsrc=aw.ds
 - https://www.freepdfconvert.com/pt
@@ -69,6 +71,7 @@
 - https://www.meninashoes.com.br/outlet/tenis?initialMap=c,c&initialQuery=outlet/tenis&map=category-1,category-2,tamanho,tamanho,tamanho,tamanho&order=OrderByPriceASC&page=4&query=/outlet/tenis/39/39-40/39-italia---37-brasil/41-italia---39-brasil&searchState
 - https://www.mirao.com.br/blog/post/melhor-setup-para-2024-guia-de-dicas-para-escolher-o-melhor-setup-para-esse-ano
 - https://www.novatec.com.br/livros/logica-programacao-algoritmos-com-javascript-2ed/
+- https://www.npmjs.com/
 - https://www.ocupacoes.com.br/cbo-mte/317110-programador-de-sistemas-de-informacao#google_vignette
 - https://www.origamid.com/?utm_medium=adwords&utm_campaign=&utm_source=&gad_source=1&gclid=CjwKCAjw-O6zBhASEiwAOHeGxZMbv20Fx7rHIJ5ZW7ORIAaD85pldOL5veIiG5lWn5FoOGxgUVxi6xoCUfcQAvD_BwE
 - https://www.reddit.com/r/SQL/comments/11wogjb/where_to_practice_sql/?rdt=34328
