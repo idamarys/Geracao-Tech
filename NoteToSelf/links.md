@@ -8,6 +8,8 @@
 - https://css-tricks.com/
 - https://descomplica.com.br/
 - https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_media_queries/Using_media_queries
+- https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array
+- https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Math
 - https://eventofiecsummit.com.br/
 - https://exame.com/colunistas/relacionamento-antes-do-marketing/os-dados-nao-sao-mais-o-novo-petroleo/
 - https://expressjs.com/pt-br/
