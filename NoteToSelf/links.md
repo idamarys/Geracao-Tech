@@ -1,5 +1,6 @@
 - http://www.mtecbo.gov.br/cbosite/pages/pesquisas/BuscaPorTitulo.jsf
 - https://app.enhancv.com/onboarding#1
+- https://awari.com.br/cursos/
 - https://baydigital.com.br/nosso-portfolio/
 - https://bitwarden.com/
 - https://br.linkedin.com/company/beecrowd
