@@ -6,6 +6,7 @@
 - https://br.linkedin.com/company/beecrowd
 - https://capacitabrasil.ifce.edu.br/
 - https://codepen.io/team/bootstrap/pen/qBamdLj
+- https://codered.eccouncil.org/
 - https://css-tricks.com/
 - https://descomplica.com.br/
 - https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_media_queries/Using_media_queries
@@ -40,6 +41,7 @@
 - https://servicodados.ibge.gov.br/api/docs/
 - https://site.cordelventures.com.br/cordel-ventures
 - https://tailwindcss.com/docs/installation/play-cdn
+- https://tcm-sec.com/
 - https://techatual.com/
 - https://thedotgood.net/ranking/2024-world-200-sgos/
 - https://www.99jobs.com/luizalabs/jobs
