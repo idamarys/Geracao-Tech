@@ -40,6 +40,7 @@
 - https://semver.org/lang/pt-BR/
 - https://servicodados.ibge.gov.br/api/docs/
 - https://site.cordelventures.com.br/cordel-ventures
+- https://solyd.com.br/
 - https://tailwindcss.com/docs/installation/play-cdn
 - https://tcm-sec.com/
 - https://techatual.com/
@@ -86,3 +87,4 @@
 - https://www.surveymonkey.com/
 - https://www.typescriptlang.org/docs/
 - https://www.typescriptlang.org/tsconfig/
+- https://www.vagas.com.br/
