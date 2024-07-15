@@ -3,10 +3,12 @@
 - https://awari.com.br/cursos/
 - https://baydigital.com.br/nosso-portfolio/
 - https://bitwarden.com/
+- https://blog.betrybe.com/react/react-carousel/
 - https://br.linkedin.com/company/beecrowd
 - https://capacitabrasil.ifce.edu.br/
 - https://codepen.io/team/bootstrap/pen/qBamdLj
 - https://codered.eccouncil.org/
+- https://coodesh.com/blog/dicionario/o-que-e-lint/
 - https://create-react-app.dev/docs/getting-started
 - https://css-tricks.com/
 - https://descomplica.com.br/
@@ -23,6 +25,7 @@
 - https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md
 - https://github.com/edu
 - https://github.com/felipefialho/frontend-challenges
+- https://ground.news/
 - https://guiadeti.com.br/bondedalpi-linuxtips-curso-linux-gratis/
 - https://horadecodar.com.br/
 - https://htmlcolorcodes.com/roblox-color-codes/
