@@ -7,6 +7,7 @@
 - https://capacitabrasil.ifce.edu.br/
 - https://codepen.io/team/bootstrap/pen/qBamdLj
 - https://codered.eccouncil.org/
+- https://create-react-app.dev/docs/getting-started
 - https://css-tricks.com/
 - https://descomplica.com.br/
 - https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_media_queries/Using_media_queries
@@ -30,13 +31,17 @@
 - https://js.org/
 - https://lawsofux.com/
 - https://learngitbranching.js.org/?locale=pt_BR&demo=
+- https://medium.com/@CarlosHSMendes/next-js-vs-vite-qual-a-melhor-op%C3%A7%C3%A3o-para-inicializar-seu-projeto-react-bc38ccc9613c#:~:text=Para%20projetos%20que%20demandam%20alta,Vite%20%C3%A9%20a%20melhor%20op%C3%A7%C3%A3o.
 - https://medium.com/@meenakshi052003/choose-the-best-platforms-to-practice-sql-online-075358b3051e
 - https://mockapi.io/
+- https://nextjs.org/docs
 - https://nic.br/
 - https://patorjk.com/
 - https://pesquisa.codigofonte.com.br/2024
 - https://profile-readme-generator.com/
+- https://remix.run/docs/en/main
 - https://search.worldcat.org/pt
+- https://selecaojuventude.fortaleza.ce.gov.br/
 - https://semver.org/lang/pt-BR/
 - https://servicodados.ibge.gov.br/api/docs/
 - https://site.cordelventures.com.br/cordel-ventures
@@ -45,6 +50,8 @@
 - https://tcm-sec.com/
 - https://techatual.com/
 - https://thedotgood.net/ranking/2024-world-200-sgos/
+- https://vitejs.dev/guide/
+- https://vuejs.org/guide/introduction.html
 - https://www.99jobs.com/luizalabs/jobs
 - https://www.amazon.com.br/Codificador-Limpo-Bob-Martin/dp/8576086476
 - https://www.braziljs.org/
@@ -80,6 +87,8 @@
 - https://www.npmjs.com/
 - https://www.ocupacoes.com.br/cbo-mte/317110-programador-de-sistemas-de-informacao#google_vignette
 - https://www.origamid.com/?utm_medium=adwords&utm_campaign=&utm_source=&gad_source=1&gclid=CjwKCAjw-O6zBhASEiwAOHeGxZMbv20Fx7rHIJ5ZW7ORIAaD85pldOL5veIiG5lWn5FoOGxgUVxi6xoCUfcQAvD_BwE
+- https://www.reddit.com/r/nextjs/comments/1avem93/nextjs_or_vite/
+- https://www.reddit.com/r/reactjs/comments/18pf4l0/which_one_is_better_remix_or_next/?rdt=62718
 - https://www.reddit.com/r/SQL/comments/11wogjb/where_to_practice_sql/?rdt=34328
 - https://www.research.net/
 - https://www.restic36.cepedi.org.br/edital.html
