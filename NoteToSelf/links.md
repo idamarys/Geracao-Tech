@@ -1,4 +1,5 @@
 - http://www.mtecbo.gov.br/cbosite/pages/pesquisas/BuscaPorTitulo.jsf
+- https://12ft.io/
 - https://app.enhancv.com/onboarding#1
 - https://awari.com.br/cursos/
 - https://baydigital.com.br/nosso-portfolio/
@@ -53,6 +54,7 @@
 - https://tcm-sec.com/
 - https://techatual.com/
 - https://thedotgood.net/ranking/2024-world-200-sgos/
+- https://v0.dev/
 - https://vitejs.dev/guide/
 - https://vuejs.org/guide/introduction.html
 - https://www.99jobs.com/luizalabs/jobs
