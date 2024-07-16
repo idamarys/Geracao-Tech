@@ -6,6 +6,7 @@
 - https://bitwarden.com/
 - https://blog.betrybe.com/react/react-carousel/
 - https://br.linkedin.com/company/beecrowd
+- https://bruno-simon.com/
 - https://capacitabrasil.ifce.edu.br/
 - https://codepen.io/team/bootstrap/pen/qBamdLj
 - https://codered.eccouncil.org/
@@ -21,6 +22,7 @@
 - https://expressjs.com/pt-br/
 - https://expressjs.com/pt-br/guide/using-middleware.html
 - https://fetchapi.com/lander
+- https://freefrontend.com/
 - https://getbootstrap.com/docs/5.3/helpers/focus-ring/
 - https://git-fork.com/
 - https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md
@@ -43,6 +45,7 @@
 - https://patorjk.com/
 - https://pesquisa.codigofonte.com.br/2024
 - https://profile-readme-generator.com/
+- https://react.dev/learn/your-first-component#nesting-and-organizing-components
 - https://remix.run/docs/en/main
 - https://search.worldcat.org/pt
 - https://selecaojuventude.fortaleza.ce.gov.br/
@@ -97,6 +100,7 @@
 - https://www.reddit.com/r/SQL/comments/11wogjb/where_to_practice_sql/?rdt=34328
 - https://www.research.net/
 - https://www.restic36.cepedi.org.br/edital.html
+- https://www.sct.ce.gov.br/utd/informatica-para-o-mercado-de-trabalho/
 - https://www.sql-practice.com/
 - https://www.surveymonkey.com/
 - https://www.typescriptlang.org/docs/
