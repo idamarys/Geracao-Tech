@@ -44,6 +44,7 @@
 - https://nic.br/
 - https://patorjk.com/
 - https://pesquisa.codigofonte.com.br/2024
+- https://placehold.co/
 - https://profile-readme-generator.com/
 - https://react.dev/learn/your-first-component#nesting-and-organizing-components
 - https://remix.run/docs/en/main
