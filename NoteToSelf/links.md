@@ -43,6 +43,7 @@
 - https://mockapi.io/
 - https://nextjs.org/docs
 - https://nic.br/
+- https://obsproject.com/pt-br
 - https://patorjk.com/
 - https://pesquisa.codigofonte.com.br/2024
 - https://placehold.co/
@@ -55,6 +56,7 @@
 - https://servicodados.ibge.gov.br/api/docs/
 - https://site.cordelventures.com.br/cordel-ventures
 - https://solyd.com.br/
+- https://styled-components.com/
 - https://tailwindcss.com/docs/installation/play-cdn
 - https://tcm-sec.com/
 - https://techatual.com/
