@@ -27,6 +27,7 @@
 - https://getbootstrap.com/docs/5.3/helpers/focus-ring/
 - https://git-fork.com/
 - https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md
+- https://github.com/DanielHe4rt/empresas-php
 - https://github.com/edu
 - https://github.com/felipefialho/frontend-challenges
 - https://ground.news/
