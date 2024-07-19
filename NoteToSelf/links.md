@@ -6,6 +6,7 @@
 - https://bitwarden.com/
 - https://blog.betrybe.com/react/react-carousel/
 - https://br.linkedin.com/company/beecrowd
+- https://br.shein.com/goods-p-30579199.html?onelink=0%2Fgooglefeed_br&requestId=504989391269003493&goods_id=30579199&lang=pt&currency=BRL&skucode=I63mbfpq1d01&test=135&landing_test_id=0&landing_page_id=0&ad_check=2
 - https://bruno-simon.com/
 - https://capacitabrasil.ifce.edu.br/
 - https://codepen.io/team/bootstrap/pen/qBamdLj
@@ -47,7 +48,10 @@
 - https://patorjk.com/
 - https://pesquisa.codigofonte.com.br/2024
 - https://placehold.co/
+- https://produto.mercadolivre.com.br/MLB-2695124664-camiseta-coraco-pride-bandeira-lesbica-orgulho-lgbtqiap-_JM?attributes=SIZE%3AR0c%3D%2CCOLOR_SECONDARY_COLOR%3AUHJldG8%3D&quantity=1
 - https://profile-readme-generator.com/
+- https://pt.aliexpress.com/item/1005007201539809.html?src=google
+- https://pt.aliexpress.com/item/1005007297375079.html?src=google
 - https://react.dev/learn/your-first-component#nesting-and-organizing-components
 - https://remix.run/docs/en/main
 - https://search.worldcat.org/pt
@@ -109,4 +113,6 @@
 - https://www.surveymonkey.com/
 - https://www.typescriptlang.org/docs/
 - https://www.typescriptlang.org/tsconfig/
+- https://www.uniblu.com.br/tshirt-tematica-lgbtqiapn-uniblu-personalizado?utm_source=Site&utm_medium=GoogleMerchant&utm_campaign=GoogleMerchant&sku=108867280
 - https://www.vagas.com.br/
+- https://www.vestsapatao.com.br/
