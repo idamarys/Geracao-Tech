@@ -23,6 +23,7 @@
 - https://expressjs.com/pt-br/
 - https://expressjs.com/pt-br/guide/using-middleware.html
 - https://fetchapi.com/lander
+- https://fontawesome.com/
 - https://freefrontend.com/
 - https://getbootstrap.com/docs/5.3/helpers/focus-ring/
 - https://git-fork.com/
@@ -39,6 +40,7 @@
 - https://js.org/
 - https://lawsofux.com/
 - https://learngitbranching.js.org/?locale=pt_BR&demo=
+- https://mapacultural.secult.ce.gov.br/
 - https://medium.com/datenworks/fuzzy-search-buscando-texto-por-aproxima%C3%A7%C3%A3o-6c7214e0ea01
 - https://medium.com/@CarlosHSMendes/next-js-vs-vite-qual-a-melhor-op%C3%A7%C3%A3o-para-inicializar-seu-projeto-react-bc38ccc9613c#:~:text=Para%20projetos%20que%20demandam%20alta,Vite%20%C3%A9%20a%20melhor%20op%C3%A7%C3%A3o.
 - https://medium.com/@meenakshi052003/choose-the-best-platforms-to-practice-sql-online-075358b3051e
