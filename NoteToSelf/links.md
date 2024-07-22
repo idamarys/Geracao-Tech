@@ -56,6 +56,8 @@
 - https://pt.aliexpress.com/item/1005007201539809.html?src=google
 - https://pt.aliexpress.com/item/1005007297375079.html?src=google
 - https://react.dev/learn/your-first-component#nesting-and-organizing-components
+- https://react.dev/reference/react/useContext
+- https://redux.js.org/
 - https://remix.run/docs/en/main
 - https://search.worldcat.org/pt
 - https://selecaojuventude.fortaleza.ce.gov.br/
@@ -71,6 +73,7 @@
 - https://v0.dev/
 - https://vitejs.dev/guide/
 - https://vuejs.org/guide/introduction.html
+- https://zustand-demo.pmnd.rs/
 - https://www.99jobs.com/luizalabs/jobs
 - https://www.amazon.com.br/Codificador-Limpo-Bob-Martin/dp/8576086476
 - https://www.braziljs.org/
