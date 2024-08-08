@@ -42,6 +42,7 @@
 - https://lawsofux.com/
 - https://learngitbranching.js.org/?locale=pt_BR&demo=
 - https://mapacultural.secult.ce.gov.br/
+- https://www.mediawiki.org/wiki/MediaWiki
 - https://medium.com/datenworks/fuzzy-search-buscando-texto-por-aproxima%C3%A7%C3%A3o-6c7214e0ea01
 - https://medium.com/@CarlosHSMendes/next-js-vs-vite-qual-a-melhor-op%C3%A7%C3%A3o-para-inicializar-seu-projeto-react-bc38ccc9613c#:~:text=Para%20projetos%20que%20demandam%20alta,Vite%20%C3%A9%20a%20melhor%20op%C3%A7%C3%A3o.
 - https://medium.com/@meenakshi052003/choose-the-best-platforms-to-practice-sql-online-075358b3051e
@@ -74,6 +75,7 @@
 - https://v0.dev/
 - https://vitejs.dev/guide/
 - https://vuejs.org/guide/introduction.html
+- https://wikimediafoundation.org/
 - https://zustand-demo.pmnd.rs/
 - https://www.99jobs.com/luizalabs/jobs
 - https://www.amazon.com.br/Codificador-Limpo-Bob-Martin/dp/8576086476
