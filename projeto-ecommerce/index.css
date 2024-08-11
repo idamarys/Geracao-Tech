@@ -16,3 +16,9 @@
     light-gray-3: #F5F5F5;
     white: #FFFFFF;
 }
+
+.logo-digitalstore {
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 10%;
+}
