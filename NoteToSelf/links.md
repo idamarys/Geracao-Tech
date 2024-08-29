@@ -118,6 +118,7 @@
 - https://www.research.net/
 - https://www.restic36.cepedi.org.br/edital.html
 - https://www.sct.ce.gov.br/utd/informatica-para-o-mercado-de-trabalho/
+- https://www.sphinx-doc.org/en/master/
 - https://www.sql-practice.com/
 - https://www.surveymonkey.com/
 - https://www.typescriptlang.org/docs/
