@@ -2,6 +2,7 @@
 - [Awari - Cursos](https://awari.com.br/cursos/)
 - [Capacita Brasil - IFCE](https://capacitabrasil.ifce.edu.br/)
 - [Curso Linux Grátis](https://guiadeti.com.br/bondedalpi-linuxtips-curso-linux-gratis/)
+- [Cursos Lead Fortaleza](https://leadfortaleza.com.br/dal/courses)
 - [Descomplica](https://descomplica.com.br/)
 - [DIO - Construtores em Java](https://www.dio.me/articles/construtores-em-java)
 - [EC-Council - CodeRed](https://codered.eccouncil.org/)
