@@ -1,128 +1,81 @@
-- http://www.mtecbo.gov.br/cbosite/pages/pesquisas/BuscaPorTitulo.jsf
-- https://12ft.io/
-- https://allan.vercel.app/
-- https://app.enhancv.com/onboarding#1
-- https://awari.com.br/cursos/
-- https://baydigital.com.br/nosso-portfolio/
-- https://bitwarden.com/
-- https://blog.betrybe.com/react/react-carousel/
-- https://br.linkedin.com/company/beecrowd
-- https://br.shein.com/goods-p-30579199.html?onelink=0%2Fgooglefeed_br&requestId=504989391269003493&goods_id=30579199&lang=pt&currency=BRL&skucode=I63mbfpq1d01&test=135&landing_test_id=0&landing_page_id=0&ad_check=2
-- https://bruno-simon.com/
-- https://capacitabrasil.ifce.edu.br/
-- https://codepen.io/team/bootstrap/pen/qBamdLj
-- https://codered.eccouncil.org/
-- https://coodesh.com/blog/dicionario/o-que-e-lint/
-- https://create-react-app.dev/docs/getting-started
-- https://css-tricks.com/
-- https://descomplica.com.br/
-- https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_media_queries/Using_media_queries
-- https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array
-- https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Math
-- https://eventofiecsummit.com.br/
-- https://exame.com/colunistas/relacionamento-antes-do-marketing/os-dados-nao-sao-mais-o-novo-petroleo/
-- https://expressjs.com/pt-br/
-- https://expressjs.com/pt-br/guide/using-middleware.html
-- https://fetchapi.com/lander
-- https://fontawesome.com/
-- https://freefrontend.com/
-- https://getbootstrap.com/docs/5.3/helpers/focus-ring/
-- https://git-fork.com/
-- https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md
-- https://github.com/DanielHe4rt/empresas-php
-- https://github.com/edu
-- https://github.com/felipefialho/frontend-challenges
-- https://ground.news/
-- https://guiadeti.com.br/bondedalpi-linuxtips-curso-linux-gratis/
-- https://horadecodar.com.br/
-- https://htmlcolorcodes.com/roblox-color-codes/
-- https://http.dog/
-- https://irede.org.br/#/
-- https://js.org/
-- https://lawsofux.com/
-- https://learngitbranching.js.org/?locale=pt_BR&demo=
-- https://mapacultural.secult.ce.gov.br/
-- https://www.mediawiki.org/wiki/MediaWiki
-- https://medium.com/datenworks/fuzzy-search-buscando-texto-por-aproxima%C3%A7%C3%A3o-6c7214e0ea01
-- https://medium.com/@CarlosHSMendes/next-js-vs-vite-qual-a-melhor-op%C3%A7%C3%A3o-para-inicializar-seu-projeto-react-bc38ccc9613c#:~:text=Para%20projetos%20que%20demandam%20alta,Vite%20%C3%A9%20a%20melhor%20op%C3%A7%C3%A3o.
-- https://medium.com/@meenakshi052003/choose-the-best-platforms-to-practice-sql-online-075358b3051e
-- https://mockapi.io/
-- https://nextjs.org/docs
-- https://nic.br/
-- https://obsproject.com/pt-br
-- https://patorjk.com/
-- https://pesquisa.codigofonte.com.br/2024
-- https://placehold.co/
-- https://produto.mercadolivre.com.br/MLB-2695124664-camiseta-coraco-pride-bandeira-lesbica-orgulho-lgbtqiap-_JM?attributes=SIZE%3AR0c%3D%2CCOLOR_SECONDARY_COLOR%3AUHJldG8%3D&quantity=1
-- https://profile-readme-generator.com/
-- https://pt.aliexpress.com/item/1005007201539809.html?src=google
-- https://pt.aliexpress.com/item/1005007297375079.html?src=google
-- https://react.dev/learn/your-first-component#nesting-and-organizing-components
-- https://react.dev/reference/react/useContext
-- https://redux.js.org/
-- https://remix.run/docs/en/main
-- https://search.worldcat.org/pt
-- https://selecaojuventude.fortaleza.ce.gov.br/
-- https://semver.org/lang/pt-BR/
-- https://servicodados.ibge.gov.br/api/docs/
-- https://site.cordelventures.com.br/cordel-ventures
-- https://solyd.com.br/
-- https://styled-components.com/
-- https://tailwindcss.com/docs/installation/play-cdn
-- https://tcm-sec.com/
-- https://techatual.com/
-- https://thedotgood.net/ranking/2024-world-200-sgos/
-- https://v0.dev/
-- https://vitejs.dev/guide/
-- https://vuejs.org/guide/introduction.html
-- https://wikimediafoundation.org/
-- https://zustand-demo.pmnd.rs/
-- https://www.99jobs.com/luizalabs/jobs
-- https://www.amazon.com.br/Codificador-Limpo-Bob-Martin/dp/8576086476
-- https://www.braziljs.org/
-- https://www.builder.io/
-- https://www.ceara.gov.br/radar-de-oportunidades/
-- https://www.ceara.gov.br/2024/04/04/uece-e-dell-reabrem-inscricoes-para-cursos-gratuitos-do-programa-ensino-digital/
-- https://www.cod3r.com.br/
-- https://www.codewars.com/
-- https://www.conventionalcommits.org/en/v1.0.0/
-- https://www.devmedia.com.br/construtores-em-java-primeiros-passos/28618
-- https://www.dio.me/articles/construtores-em-java
-- https://www.ef.com.br/certificados-ingles/comparacao/
-- https://www.ef.com.br/certificados-ingles/efset/?semcp=S-DSA&semag=DSA-00-00&pkw=DYNAMIC+SEARCH+ADS&opti_ca=931293777&opti_ag=45986541345&opti_ad=686582952170&opti_key=dsa-316671994027&utm_source=google&utm_medium=cpc&utm_campaign=S-DSA&utm_content=GGBRS_DSA_00_00&&semcp=S-DSA&semag=DSA-00-00&pkw=DYNAMIC+SEARCH+ADS&source=007957,GGBRS_DSA_00_00&gad_source=1&gclid=CjwKCAjwyo60BhBiEiwAHmVLJc2cKEPPixoypftbWOgM8qjm5WehkCVVX_4JNQVn1y2E02HJPjSMgBoCafwQAvD_BwE&gclsrc=aw.ds
-- https://www.freepdfconvert.com/pt
-- https://www.geeksforgeeks.org/sql-exercises/
-- https://www.gfire.com.br/
-- https://www.google.com/search?gs_ssp=eJzj4tVP1zc0TKnMrUhKLiwxYPQSTc0rSc1LAaJ8hcSc9PyizJLc_GIA_DkNwA&q=entendendo+algoritmos&rlz=1C1GCEU_pt-BRBR1118&oq=entendendo+algorit&gs_lcrp=EgZjaHJvbWUqDQgBEC4YgwEYsQMYgAQyEAgAEAAYgwEY4wIYsQMYgAQyDQgBEC4YgwEYsQMYgAQyBggCEEUYOTIMCAMQABhDGIAEGIoFMgcIBBAAGIAEMgcIBRAAGIAEMgwIBhAAGEMYgAQYigUyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQg3MDA3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
-- https://www.google.com/search?q=como+os+sinogramas+s%C3%A3o+chamados+em+cada+pa%C3%ADs&sca_esv=74df811e3a5c80f0&sca_upv=1&rlz=1C1GCEU_pt-BRBR1116BR1117&ei=cMaPZoarHpTf1sQPxqumgAs&ved=0ahUKEwiGo8it9Z6HAxWUr5UCHcaVCbAQ4dUDCBA&uact=5&oq=como+os+sinogramas+s%C3%A3o+chamados+em+cada+pa%C3%ADs&gs_lp=Egxnd3Mtd2l6LXNlcnAiLmNvbW8gb3Mgc2lub2dyYW1hcyBzw6NvIGNoYW1hZG9zIGVtIGNhZGEgcGHDrXMyBRAhGKABMgUQIRigAUj2alCtC1ilaXADeACQAQCYAdYBoAGmPKoBBjAuNDUuMrgBA8gBAPgBAZgCMaACqDzCAgoQABiwAxjWBBhHwgILEAAYgAQYsQMYgwHCAgsQLhiABBixAxiDAcICDhAuGIAEGLEDGIMBGIoFwgIFEC4YgATCAhEQLhiABBixAxjRAxiDARjHAcICCBAAGIAEGLEDwgITEC4YgAQYQxjHARiKBRiOBRivAcICChAAGIAEGEMYigXCAg4QABiABBixAxiDARiKBcICIhAuGIAEGEMYxwEYigUYjgUYrwEYlwUY3AQY3gQY4ATYAQHCAgUQABiABMICCxAAGIAEGLEDGIoFwgIOEC4YgAQYsQMY1AIYigXCAgYQABgWGB7CAggQABiiBBiJBcICCBAAGIAEGKIEwgIHECEYoAEYCpgDAIgGAZAGCLoGBggBEAEYFJIHBjMuNDQuMqAH_eAB&sclient=gws-wiz-serp
-- https://www.google.com/search?q=como+roubar+sess%C3%A3o+utilizando+token+jwt&rlz=1C1GCEU_pt-BRBR1116BR1117&oq=como+roubar+sess%C3%A3o+utilizand&gs_lcrp=EgZjaHJvbWUqBwgBECEYoAEyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCDc1NTRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
-- https://www.google.com/search?q=lms+learning+management+system&rlz=1C1GCEU_pt-BRBR1118&oq=lms+le&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQLhgWGB4yCAgIEAAYFhgeMggICRAAGBYYHtIBCDM1NDNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
-- https://www.google.com/search?q=mobile+first&rlz=1C1GCEU_pt-BRBR1116&oq=mobile+fi&gs_lcrp=EgZjaHJvbWUqCggAEAAYsQMYgAQyCggAEAAYsQMYgAQyBwgBEAAYgAQyBggCEEUYOTIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABKgCALACAA&sourceid=chrome&ie=UTF-8#wptab=si:ACC90nxQLWTp1Pj4tdUwZU29vA-Vn4NhXwefPTNPEG9Y0qztlWU3A4Fr32ioYzDhdATpq21V9gj3dDkQlF8o7l0gKksIFp7W8DBLloTDXEWtSwQ22YYwoxuO_4_3JlI1lkg2r00XvldUC5tyKfY897sIiS3_hFPM0A%3D%3D
-- https://www.google.com/search?sca_esv=74df811e3a5c80f0&sca_upv=1&rlz=1C1GCEU_pt-BRBR1116BR1117&q=qual+a+diferen%C3%A7a+entre+sessionstorage+e+localstorage&spell=1&sa=X&ved=2ahUKEwiuyduB8p6HAxV3lZUCHYXJACEQBSgAegQICBAB&biw=1536&bih=730&dpr=1.25
-- https://www.hackerrank.com/domains/sql
-- https://www.instagram.com/reel/C4LQg-vu1eV/?igsh=MWt1YW43dnJwMjV0dw%3D%3D
-- https://www.jsonplaceholder.org/
-- https://www.kabum.com.br/?gad_source=1&gclid=EAIaIQobChMI8oTOgun7hgMVjVpIAB0xLwOtEAAYASAAEgL2YvD_BwE
-- https://www.linkedin.com/help/linkedin/answer/a554351
-- https://www.linkedin.com/jobs/application-settings/
-- https://www.meninashoes.com.br/blog/tenis-nike-branco/
-- https://www.meninashoes.com.br/outlet/tenis?initialMap=c,c&initialQuery=outlet/tenis&map=category-1,category-2,tamanho,tamanho,tamanho,tamanho&order=OrderByPriceASC&page=4&query=/outlet/tenis/39/39-40/39-italia---37-brasil/41-italia---39-brasil&searchState
-- https://www.mirao.com.br/blog/post/melhor-setup-para-2024-guia-de-dicas-para-escolher-o-melhor-setup-para-esse-ano
-- https://www.novatec.com.br/livros/logica-programacao-algoritmos-com-javascript-2ed/
-- https://www.npmjs.com/
-- https://www.ocupacoes.com.br/cbo-mte/317110-programador-de-sistemas-de-informacao#google_vignette
-- https://www.origamid.com/?utm_medium=adwords&utm_campaign=&utm_source=&gad_source=1&gclid=CjwKCAjw-O6zBhASEiwAOHeGxZMbv20Fx7rHIJ5ZW7ORIAaD85pldOL5veIiG5lWn5FoOGxgUVxi6xoCUfcQAvD_BwE
-- https://www.reddit.com/r/nextjs/comments/1avem93/nextjs_or_vite/
-- https://www.reddit.com/r/reactjs/comments/18pf4l0/which_one_is_better_remix_or_next/?rdt=62718
-- https://www.reddit.com/r/SQL/comments/11wogjb/where_to_practice_sql/?rdt=34328
-- https://www.research.net/
-- https://www.restic36.cepedi.org.br/edital.html
-- https://www.sct.ce.gov.br/utd/informatica-para-o-mercado-de-trabalho/
-- https://www.sphinx-doc.org/en/master/
-- https://www.sql-practice.com/
-- https://www.surveymonkey.com/
-- https://www.typescriptlang.org/docs/
-- https://www.typescriptlang.org/tsconfig/
-- https://www.uniblu.com.br/tshirt-tematica-lgbtqiapn-uniblu-personalizado?utm_source=Site&utm_medium=GoogleMerchant&utm_campaign=GoogleMerchant&sku=108867280
-- https://www.vagas.com.br/
-- https://www.vestsapatao.com.br/
+### **Educação e Cursos**
+- [Awari - Cursos](https://awari.com.br/cursos/)
+- [Capacita Brasil - IFCE](https://capacitabrasil.ifce.edu.br/)
+- [Curso Linux Grátis](https://guiadeti.com.br/bondedalpi-linuxtips-curso-linux-gratis/)
+- [Descomplica](https://descomplica.com.br/)
+- [DIO - Construtores em Java](https://www.dio.me/articles/construtores-em-java)
+- [EC-Council - CodeRed](https://codered.eccouncil.org/)
+- [Geeks for Geeks - SQL Exercises](https://www.geeksforgeeks.org/sql-exercises/)
+- [Uece e Dell - Cursos Gratuitos](https://www.ceara.gov.br/2024/04/04/uece-e-dell-reabrem-inscricoes-para-cursos-gratuitos-do-programa-ensino-digital/)
+
+### **Ferramentas e Desenvolvimento**
+- [Bitwarden - Gerenciador de Senhas](https://bitwarden.com/)
+- [Create React App](https://create-react-app.dev/docs/getting-started)
+- [CSS Tricks](https://css-tricks.com/)
+- [Express.js - Usando Middleware](https://expressjs.com/pt-br/guide/using-middleware.html)
+- [FontAwesome - Ícones](https://fontawesome.com/)
+- [Free Frontend - Recursos Frontend](https://freefrontend.com/)
+- [Git Fork](https://git-fork.com/)
+- [GitHub - Frontend Challenges](https://github.com/felipefialho/frontend-challenges)
+- [Ground News](https://ground.news/)
+- [JS.org](https://js.org/)
+- [Laws of UX](https://lawsofux.com/)
+- [MockAPI](https://mockapi.io/)
+- [Next.js - Docs](https://nextjs.org/docs)
+- [Redux](https://redux.js.org/)
+- [Remix - Documentação](https://remix.run/docs/en/main)
+- [Styled Components](https://styled-components.com/)
+- [TailwindCSS](https://tailwindcss.com/docs/installation/play-cdn)
+- [Vite - Guide](https://vitejs.dev/guide/)
+- [Vue.js - Guide](https://vuejs.org/guide/introduction.html)
+- [Zustand Demo](https://zustand-demo.pmnd.rs/)
+
+### **Programação e Tech**
+- [Coodesh - O que é Lint?](https://coodesh.com/blog/dicionario/o-que-e-lint/)
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+- [Developer Mozilla - Array](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array)
+- [Developer Mozilla - CSS Media Queries](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_media_queries/Using_media_queries)
+- [Developer Mozilla - Math](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Math)
+- [LawsofUX](https://lawsofux.com/)
+- [Medium - Fuzzy Search](https://medium.com/datenworks/fuzzy-search-buscando-texto-por-aproxima%C3%A7%C3%A3o-6c7214e0ea01)
+- [Medium - Next.js vs Vite](https://medium.com/@CarlosHSMendes/next-js-vs-vite-qual-a-melhor-op%C3%A7%C3%A3o-para-inicializar-seu-projeto-react-bc38ccc9613c#:~:text=Para%20projetos%20que%20demandam%20alta,Vite%20%C3%A9%20a%20melhor%20op%C3%A7%C3%A3o.)
+- [Medium - Platforms to Practice SQL](https://medium.com/@meenakshi052003/choose-the-best-platforms-to-practice-sql-online-075358b3051e)
+- [Nic.br](https://nic.br/)
+- [SemVer](https://semver.org/lang/pt-BR/)
+
+### **Carreira e Oportunidades**
+- [99Jobs - Luizalabs Jobs](https://www.99jobs.com/luizalabs/jobs)
+- [BrazilJS](https://www.braziljs.org/)
+- [Ceará Radar de Oportunidades](https://www.ceara.gov.br/radar-de-oportunidades/)
+- [Cordel Ventures](https://site.cordelventures.com.br/cordel-ventures)
+- [Empresas PHP](https://github.com/DanielHe4rt/empresas-php)
+- [Exame - Relacionamento Antes do Marketing](https://exame.com/colunistas/relacionamento-antes-do-marketing/os-dados-nao-sao-mais-o-novo-petroleo/)
+
+### **E-commerce e Compras**
+- [Aliexpress - Produto 1](https://pt.aliexpress.com/item/1005007201539809.html)
+- [Aliexpress - Produto 2](https://pt.aliexpress.com/item/1005007297375079.html)
+- [Amazon Brasil](https://www.amazon.com.br/)
+- [Mercado Livre - Camiseta Pride](https://produto.mercadolivre.com.br/MLB-2695124664-camiseta-coraco-pride-bandeira-lesbica-orgulho-lgbtqiap-_JM)
+- [Shein - Produto](https://br.shein.com/goods-p-30579199.html)
+
+### **Mídias e Entretenimento**
+- [Bruno Simon](https://bruno-simon.com/)
+- [Instagram Reel](https://www.instagram.com/reel/C4LQg-vu1eV/)
+
+### **Outros Recursos**
+- [12ft.io](https://12ft.io/)
+- [Allan](https://allan.vercel.app/)
+- [Bay Digital - Portfólio](https://baydigital.com.br/nosso-portfolio/)
+- [Gfire](https://www.gfire.com.br/)
+- [HTML Color Codes](https://htmlcolorcodes.com/roblox-color-codes/)
+- [OBS Project](https://obsproject.com/pt-br)
+- [Placehold.co](https://placehold.co/)
+- [Profile README Generator](https://profile-readme-generator.com/)
+- [Pesquisa Código Fonte](https://pesquisa.codigofonte.com.br/2024)
+- [Sphinx - Documentação](https://www.sphinx-doc.org/en/master/)
+
+### **Formatação e Conversão de Documentos**
+- [Free PDF Convert](https://www.freepdfconvert.com/pt)
+
+### **Criação de Conteúdos**
+- [Patorjk](https://patorjk.com/)
