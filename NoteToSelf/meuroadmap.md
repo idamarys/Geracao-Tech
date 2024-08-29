@@ -1,3 +1,5 @@
+suporte help-desk -> desenvolvimento e cibersegurança
+
 ### **Ano 1: Fundamentos de Desenvolvimento**
 
 #### **Meses 1-2: Fundamentos da Programação**
@@ -5,68 +7,114 @@
 **Semana 1-2: Introdução à Programação**
 
 - **Objetivo:** Compreender a lógica e conceitos básicos da programação.
-- **Recursos e Atividades:**
-  - **Codecademy:** Complete os módulos de "Introduction to Programming".
-    - **Atividade Diária:** 1 hora de estudo e prática.
-    - **Atividade Semanal:** Criar um pequeno projeto, como um jogo simples ou um programa de cálculo.
-  - **FreeCodeCamp:** Conclua o módulo "JavaScript Algorithms and Data Structures".
-    - **Atividade Diária:** Resolver exercícios práticos e desafios.
-    - **Atividade Semanal:** Revise os conceitos aprendidos e implemente um mini-projeto (por exemplo, um algoritmo de ordenação).
+
+**Recursos e Atividades:**
+
+1. **Codecademy - Introduction to Programming**
+   - **Link:** [Introduction to Programming](https://www.codecademy.com/learn/learn-how-to-code)
+   - **Descrição:** Curso interativo para iniciantes em programação, abordando conceitos básicos.
+   - **Atividade Diária:** Dedique 1 hora por dia para completar os módulos interativos.
+   - **Atividade Semanal:** Desenvolva um pequeno projeto, como um programa de calculadora simples.
+
+2. **FreeCodeCamp - JavaScript Algorithms and Data Structures**
+   - **Link:** [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+   - **Descrição:** Curso que ensina algoritmos e estruturas de dados usando JavaScript.
+   - **Atividade Diária:** Resolver 2-3 exercícios por dia.
+   - **Atividade Semanal:** Implementar um algoritmo de ordenação e busca.
 
 **Semana 3-4: Estruturas de Dados e Algoritmos**
 
-- **Objetivo:** Aprender e implementar estruturas de dados e algoritmos.
-- **Recursos e Atividades:**
-  - **Coursera:** Complete as primeiras semanas do curso "Data Structures and Algorithms Specialization".
-    - **Atividade Diária:** Estudar teoria e resolver exercícios.
-    - **Atividade Semanal:** Implementar estruturas de dados (listas, pilhas, filas) e algoritmos básicos (busca e ordenação).
-  - **Khan Academy:** Complete o módulo "Algorithms".
-    - **Atividade Diária:** Praticar problemas de algoritmos e análise de complexidade.
+- **Objetivo:** Aprender sobre diferentes estruturas de dados e algoritmos básicos.
+
+**Recursos e Atividades:**
+
+1. **Coursera - Data Structures and Algorithm Specialization**
+   - **Link:** [Data Structures and Algorithm Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
+   - **Descrição:** Especialização em estruturas de dados e algoritmos, incluindo conceitos avançados.
+   - **Atividade Diária:** Estudar vídeos e resolver problemas em 1-2 horas.
+   - **Atividade Semanal:** Completar um módulo e implementar estruturas de dados (listas, pilhas, filas).
+
+2. **Khan Academy - Algorithms**
+   - **Link:** [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
+   - **Descrição:** Módulo sobre algoritmos e análise de complexidade.
+   - **Atividade Diária:** Estudar vídeos e resolver exercícios.
+   - **Atividade Semanal:** Implementar algoritmos de busca e ordenação em um projeto.
 
 #### **Meses 3-4: Escolher e Aprender uma Linguagem de Programação**
 
 **Semana 5-6: Escolher uma Linguagem e Estudar Fundamentos**
 
-- **Objetivo:** Aprender os fundamentos da linguagem escolhida.
-- **Recursos e Atividades:**
-  - **Codecademy:** Complete o curso de "Learn Python" ou "Learn JavaScript".
-    - **Atividade Diária:** 1-2 horas de estudo e exercícios práticos.
-    - **Atividade Semanal:** Desenvolver pequenos scripts (ex.: calculadora simples, conversor de unidades).
-  - **Coursera:** Complete o curso "Python for Everybody".
-    - **Atividade Diária:** Estudar os vídeos e completar os quizzes.
-    - **Atividade Semanal:** Trabalhar em um projeto prático relacionado ao curso.
+- **Objetivo:** Aprender os conceitos básicos de uma linguagem de programação.
+
+**Recursos e Atividades:**
+
+1. **Codecademy - Learn Python**
+   - **Link:** [Learn Python](https://www.codecademy.com/learn/learn-python-3)
+   - **Descrição:** Curso introdutório para aprender Python.
+   - **Atividade Diária:** Complete 1-2 módulos e pratique 1 hora por dia.
+   - **Atividade Semanal:** Desenvolva scripts simples, como um conversor de unidades.
+
+2. **Coursera - Python for Everybody**
+   - **Link:** [Python for Everybody](https://www.coursera.org/learn/python)
+   - **Descrição:** Curso focado em Python para iniciantes.
+   - **Atividade Diária:** Assistir às aulas e realizar exercícios.
+   - **Atividade Semanal:** Trabalhar em um projeto final, como um programa de análise de dados simples.
 
 **Semana 7-8: Prática e Projetos Iniciais**
 
-- **Objetivo:** Aplicar conhecimentos em projetos reais.
-- **Recursos e Atividades:**
-  - **GitHub:** Explore e contribua para projetos open-source.
-    - **Atividade Diária:** Navegue por repositórios e faça pequenas contribuições.
-    - **Atividade Semanal:** Crie e publique um projeto próprio (ex.: um blog pessoal ou uma lista de tarefas).
-  - **FreeCodeCamp:** Trabalhe em projetos do "Front End Development" ou "Data Visualization".
-    - **Atividade Diária:** Desenvolver e testar funcionalidades do projeto.
+- **Objetivo:** Aplicar conhecimentos em projetos práticos.
+
+**Recursos e Atividades:**
+
+1. **GitHub - Exploração e Contribuições**
+   - **Link:** [GitHub Explore](https://github.com/explore)
+   - **Descrição:** Explore projetos open-source e contribua.
+   - **Atividade Diária:** Navegar por repositórios e fazer pequenas contribuições.
+   - **Atividade Semanal:** Crie um projeto próprio e publique no GitHub, como um portfólio ou lista de tarefas.
+
+2. **FreeCodeCamp - Projetos de Front-End e Data Visualization**
+   - **Link:** [Front End Development](https://www.freecodecamp.org/learn/front-end-development/)
+   - **Descrição:** Desenvolva projetos como uma página pessoal ou uma aplicação de visualização de dados.
+   - **Atividade Diária:** Trabalhar em um projeto com HTML, CSS e JavaScript.
+   - **Atividade Semanal:** Completar um projeto e documentar o processo.
 
 #### **Meses 5-6: Ferramentas e Tecnologias**
 
 **Semana 9-10: Controle de Versão**
 
-- **Objetivo:** Aprender e praticar Git e GitHub.
-- **Recursos e Atividades:**
-  - **Codecademy:** Complete o curso "Learn Git".
-    - **Atividade Diária:** Praticar comandos Git e manipulação de repositórios.
-    - **Atividade Semanal:** Criar e gerenciar um repositório para um projeto pessoal.
-  - **GitHub Learning Lab:** Complete o curso "Introduction to GitHub".
-    - **Atividade Diária:** Realizar exercícios de controle de versão e colaboração.
+- **Objetivo:** Aprender a usar Git e GitHub para controle de versão.
+
+**Recursos e Atividades:**
+
+1. **Codecademy - Learn Git**
+   - **Link:** [Learn Git](https://www.codecademy.com/learn/learn-git)
+   - **Descrição:** Curso sobre controle de versão com Git.
+   - **Atividade Diária:** Praticar comandos Git e manipulação de repositórios.
+   - **Atividade Semanal:** Criar e gerenciar um repositório para um projeto pessoal.
+
+2. **GitHub Learning Lab - Introduction to GitHub**
+   - **Link:** [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
+   - **Descrição:** Curso prático sobre GitHub.
+   - **Atividade Diária:** Completar exercícios práticos.
+   - **Atividade Semanal:** Colaborar em um projeto open-source e utilizar recursos do GitHub.
 
 **Semana 11-12: Ambiente de Desenvolvimento**
 
-- **Objetivo:** Configurar e utilizar um IDE.
-- **Recursos e Atividades:**
-  - **Visual Studio Code:** Explore os tutoriais de configuração e extensões.
-    - **Atividade Diária:** Instalar e configurar extensões úteis (ex.: linters, debuggers).
-    - **Atividade Semanal:** Trabalhar em um projeto usando o VSCode.
-  - **PyCharm:** Complete o tutorial "Getting Started".
-    - **Atividade Diária:** Praticar a configuração de projetos e depuração.
+- **Objetivo:** Configurar e utilizar um ambiente de desenvolvimento integrado (IDE).
+
+**Recursos e Atividades:**
+
+1. **Visual Studio Code - Getting Started**
+   - **Link:** [Getting Started](https://code.visualstudio.com/docs)
+   - **Descrição:** Guia para configuração e uso do VSCode.
+   - **Atividade Diária:** Configurar extensões e personalizar o ambiente.
+   - **Atividade Semanal:** Trabalhar em projetos usando VSCode e explorar suas funcionalidades.
+
+2. **PyCharm - Getting Started**
+   - **Link:** [Getting Started](https://www.jetbrains.com/pycharm/guide/tutorials/starting-guide/)
+   - **Descrição:** Tutorial para iniciar com PyCharm.
+   - **Atividade Diária:** Configurar projetos e explorar ferramentas de depuração.
+   - **Atividade Semanal:** Trabalhar em projetos Python e utilizar ferramentas avançadas do IDE.
 
 ### **Ano 2: Avançar para Desenvolvimento e Iniciar Cibersegurança**
 
@@ -75,124 +123,227 @@
 **Semana 13-14: HTML, CSS e JavaScript**
 
 - **Objetivo:** Aprender a construir e estilizar páginas web.
-- **Recursos e Atividades:**
-  - **FreeCodeCamp:** Complete o módulo "Responsive Web Design Certification".
-    - **Atividade Diária:** Praticar HTML e CSS, criando layouts e estilos.
-    - **Atividade Semanal:** Desenvolver um site completo (ex.: portfólio pessoal).
-  - **Codecademy:** Complete o curso "Build Interactive Websites with JavaScript".
-    - **Atividade Diária:** Implementar funcionalidades interativas nas páginas.
+
+**Recursos e Atividades:**
+
+1. **FreeCodeCamp - Responsive Web Design Certification**
+   - **Link:** [Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design/)
+   - **Descrição:** Curso sobre HTML, CSS e design responsivo.
+   - **Atividade Diária:** Completar exercícios e projetos pequenos.
+   - **Atividade Semanal:** Criar um site completo e responsivo.
+
+2. **Codecademy - Build Interactive Websites with JavaScript**
+   - **Link:** [Build Interactive Websites with JavaScript](https://www.codecademy.com/learn/learn-javascript)
+   - **Descrição:** Curso focado em JavaScript para adicionar interatividade.
+   - **Atividade Diária:** Implementar funcionalidades interativas.
+   - **Atividade Semanal:** Atualizar um projeto com JavaScript interativo.
 
 **Semana 15-16: Desenvolvimento Backend**
 
-- **Objetivo:** Aprender a construir e gerenciar APIs e servidores.
-- **Recursos e Atividades:**
-  - **Udemy:** Complete o curso "Node.js & Express".
-    - **Atividade Diária:** Desenvolver e testar APIs simples.
-    - **Atividade Semanal:** Conectar o backend com um frontend básico.
-  - **Coursera:** Complete o módulo "Server-side Development with NodeJS".
-    - **Atividade Diária:** Implementar novas funcionalidades e testar a API.
+- **Objetivo:** Aprender a criar e gerenciar APIs e backends.
+
+**Recursos e Atividades:**
+
+1. **Udemy - Node.js & Express**
+   - **Link:** [Node.js & Express](https://www.udemy.com/course/nodejs-express/)
+   - **Descrição:** Curso sobre desenvolvimento de backend com Node.js e Express.
+   - **Atividade Diária:** Completar vídeos e implementar APIs.
+   - **Atividade Semanal:** Conectar o backend com um frontend básico e testar.
+
+2. **Coursera - Server-side Development with NodeJS, Express, and MongoDB**
+   - **Link:** [Server-side Development](https://www.coursera.org/learn/server-side-nodejs)
+   - **Descrição:** Curso sobre desenvolvimento server-side com Node.js e MongoDB.
+   - **Atividade Diária:** Estudar módulos e resolver exercícios.
+   - **Atividade Semanal:** Desenvolver uma API completa e realizar integração com um frontend.
 
 #### **Meses 9-10: Introdução à Cibersegurança**
 
 **Semana 17-18: Fundamentos de Cibersegurança**
 
 - **Objetivo:** Compreender os conceitos básicos de cibersegurança.
-- **Recursos e Atividades:**
-  - **Cybrary:** Complete o curso "Introduction to IT and Cybersecurity".
-    - **Atividade Diária:** Estudar os módulos e fazer anotações.
-    - **Atividade Semanal:** Revisar conceitos e realizar quizzes.
-  - **Coursera:** Complete o curso "Introduction to Cyber Security Specialization".
-    - **Atividade Diária:** Estudar vídeos e completar quizzes.
+
+**Recursos e Atividades:**
+
+1. **Cybrary - Introduction to IT and Cybersecurity**
+   - **Link:** [Introduction to IT and Cybersecurity](https://www.cybrary.it/course/intro-to-it-and-cybersecurity/)
+   - **Descrição:** Curso introdutório sobre TI e cibersegurança.
+   - **Atividade Diária:** Estudar vídeos e fazer anotações.
+   - **Atividade Semanal:** Revisar conceitos e realizar quizzes.
+
+2. **
+
+Coursera - Introduction to Cyber Security Specialization**
+   - **Link:** [Introduction to Cyber Security Specialization](https://www.coursera.org/specializations/intro-cyber-security)
+   - **Descrição:** Especialização sobre cibersegurança.
+   - **Atividade Diária:** Completar módulos e quizzes.
+   - **Atividade Semanal:** Trabalhar em projetos práticos e casos de estudo.
 
 **Semana 19-20: Certificações Iniciais**
 
-- **Objetivo:** Preparar e obter certificações básicas.
-- **Recursos e Atividades:**
-  - **CompTIA Security+:** Utilize materiais de estudo e simulados.
-    - **Atividade Diária:** Estudar tópicos específicos e resolver questões de exames anteriores.
-    - **Atividade Semanal:** Fazer simulados e revisar áreas de dificuldade.
-  - **Material de Estudo:** Livros e cursos preparatórios para CompTIA Security+.
+- **Objetivo:** Preparar e obter certificações básicas em segurança.
+
+**Recursos e Atividades:**
+
+1. **CompTIA Security+**
+   - **Link:** [CompTIA Security+](https://www.comptia.org/certifications/security)
+   - **Descrição:** Certificação fundamental em cibersegurança.
+   - **Atividade Diária:** Estudar guias e fazer simulados.
+   - **Atividade Semanal:** Realizar práticas e revisar áreas de dificuldade.
+
+2. **Material de Estudo:**
+   - **Livro:** "CompTIA Security+ Study Guide" - [Link](https://www.amazon.com/CompTIA-Security-Study-Guide-Exam/dp/1119685509)
+   - **Simulador:** [ExamCompass CompTIA Security+ Practice Tests](https://www.examcompass.com/comptia/security-plus-certification/free-security-plus-practice-tests)
 
 #### **Meses 11-12: Prática em Segurança**
 
 **Semana 21-22: Plataformas de Prática**
 
-- **Objetivo:** Aplicar conhecimentos de cibersegurança em ambientes controlados.
-- **Recursos e Atividades:**
-  - **TryHackMe:** Complete o "Complete Beginner Path" e outros desafios.
-    - **Atividade Diária:** Resolver tarefas e desafios de hacking.
-    - **Atividade Semanal:** Revisar e documentar suas descobertas.
-  - **Hack The Box:** Complete laboratórios e desafios de hacking.
-    - **Atividade Diária:** Trabalhar em máquinas e desafios.
+- **Objetivo:** Aplicar conhecimentos em ambientes simulados de cibersegurança.
+
+**Recursos e Atividades:**
+
+1. **TryHackMe - Complete Beginner Path**
+   - **Link:** [TryHackMe](https://tryhackme.com/path/outline/complete-beginner)
+   - **Descrição:** Caminho para iniciantes em cibersegurança com tutoriais e desafios.
+   - **Atividade Diária:** Completar exercícios e desafios práticos.
+   - **Atividade Semanal:** Participar de laboratórios e documentar descobertas.
+
+2. **Hack The Box**
+   - **Link:** [Hack The Box](https://www.hackthebox.com/)
+   - **Descrição:** Plataforma para praticar habilidades de hacking e segurança.
+   - **Atividade Diária:** Resolver máquinas e desafios de segurança.
+   - **Atividade Semanal:** Analisar e relatar vulnerabilidades encontradas.
 
 **Semana 23-24: Projetos de Segurança**
 
-- **Objetivo:** Trabalhar em projetos de segurança reais.
-- **Recursos e Atividades:**
-  - **GitHub:** Contribua para projetos de segurança open-source.
-    - **Atividade Diária:** Desenvolver e revisar código relacionado à segurança.
-    - **Atividade Semanal:** Participar de discussões e colaborações em projetos.
+- **Objetivo:** Trabalhar em projetos de segurança reais e colaborar com a comunidade.
+
+**Recursos e Atividades:**
+
+1. **GitHub - Contribuições para Projetos de Segurança**
+   - **Link:** [GitHub Security Projects](https://github.com/topics/security)
+   - **Descrição:** Contribua para projetos open-source relacionados à segurança.
+   - **Atividade Diária:** Contribuir com código e documentar mudanças.
+   - **Atividade Semanal:** Participar de discussões e colaborar com outros desenvolvedores.
+
+2. **Blogs e Fóruns de Segurança**
+   - **Link:** [Krebs on Security](https://krebsonsecurity.com/) e [Security Weekly](https://securityweekly.com/)
+   - **Descrição:** Leia e participe de discussões sobre temas atuais em cibersegurança.
+   - **Atividade Diária:** Ler artigos e participar de fóruns.
+   - **Atividade Semanal:** Compartilhar insights e aprender com a comunidade.
 
 ### **Ano 3: Aprofundar em Cibersegurança e Especialização**
 
-#### **Meses 13-14: Avançar em Desenvolvimento e Preparar para Cibersegurança**
+#### **Meses 13-14: Segurança em Desenvolvimento e Aplicações**
 
 **Semana 25-26: Segurança em Desenvolvimento**
 
-- **Objetivo:** Integrar práticas de segurança em seus projetos de desenvolvimento.
-- **Recursos e Atividades:**
-  - **OWASP:** Estude o [OWASP Top 10](https://owasp.org/www-project-top-ten/) e "Secure Coding Practices".
-    - **Atividade Diária:** Revisar práticas de codificação segura.
-    - **Atividade Semanal:** Revisar e aplicar práticas de segurança em projetos de desenvolvimento.
+- **Objetivo:** Integrar práticas de segurança em projetos de desenvolvimento.
+
+**Recursos e Atividades:**
+
+1. **OWASP - Top 10**
+   - **Link:** [OWASP Top 10](https://owasp.org/www-project-top-ten/)
+   - **Descrição:** Lista dos principais riscos de segurança em aplicações web.
+   - **Atividade Diária:** Estudar e aplicar práticas de segurança em projetos.
+   - **Atividade Semanal:** Revisar e corrigir vulnerabilidades em seus projetos.
+
+2. **OWASP - Secure Coding Practices**
+   - **Link:** [Secure Coding Practices](https://owasp.org/www-community/secure_coding)
+   - **Descrição:** Guia de práticas de codificação segura.
+   - **Atividade Diária:** Implementar práticas recomendadas em seu código.
+   - **Atividade Semanal:** Realizar revisões de código e implementar melhorias de segurança.
 
 **Semana 27-28: Segurança em Aplicações Web e Mobile**
 
-- **Objetivo:** Aprender e aplicar técnicas de segurança em aplicações web e mobile.
-- **Recursos e Atividades:**
-  - **OWASP:** Complete o [Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/).
-    - **Atividade Diária:** Realizar testes de segurança em suas aplicações.
-    - **Atividade Semanal:** Identificar e corrigir vulnerabilidades.
+- **Objetivo:** Aplicar técnicas de segurança em aplicações web e mobile.
+
+**Recursos e Atividades:**
+
+1. **OWASP - Web Security Testing Guide**
+   - **Link:** [Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
+   - **Descrição:** Guia para testes de segurança em aplicações web.
+   - **Atividade Diária:** Realizar testes em suas aplicações e documentar vulnerabilidades.
+   - **Atividade Semanal:** Implementar correções e validar a eficácia das medidas de segurança.
+
+2. **Udemy - Web Application Security Testing**
+   - **Link:** [Web Application Security Testing](https://www.udemy.com/course/web-application-security-testing/)
+   - **Descrição:** Curso sobre testes de segurança em aplicações web.
+   - **Atividade Diária:** Estudar vídeos e realizar práticas.
+   - **Atividade Semanal:** Conduzir testes de segurança e documentar os resultados.
 
 #### **Meses 15-16: Especialização em Cibersegurança**
 
 **Semana 29-30: Segurança em Redes e Análise Forense**
 
 - **Objetivo:** Aprofundar conhecimentos em segurança de redes e análise forense.
-- **Recursos e Atividades:**
-  - **Pluralsight:** Complete o caminho "Network Security".
-    - **Atividade Diária:** Est
 
-udar tópicos avançados e realizar exercícios práticos.
-    - **Atividade Semanal:** Configurar e testar segurança em redes.
-  - **SANS Institute:** Complete cursos de "Computer Forensics".
-    - **Atividade Diária:** Realizar análises forenses em ambientes simulados.
+**Recursos e Atividades:**
+
+1. **Pluralsight - Network Security Path**
+   - **Link:** [Network Security Path](https://www.pluralsight.com/paths/network-security)
+   - **Descrição:** Caminho de aprendizado sobre segurança de redes.
+   - **Atividade Diária:** Completar módulos e realizar práticas.
+   - **Atividade Semanal:** Configurar e testar medidas de segurança em redes.
+
+2. **SANS Institute - Computer Forensics**
+   - **Link:** [Computer Forensics](https://www.sans.org/cyber-security-courses/computer-forensics/)
+   - **Descrição:** Curso avançado em análise forense.
+   - **Atividade Diária:** Estudar materiais e realizar análises forenses simuladas.
+   - **Atividade Semanal:** Trabalhar em casos de estudo e preparar relatórios.
 
 **Semana 31-32: Certificações Avançadas**
 
 - **Objetivo:** Obter certificações avançadas em cibersegurança.
-- **Recursos e Atividades:**
-  - **OSCP:** Estude para o exame Offensive Security Certified Professional.
-    - **Atividade Diária:** Praticar hacking ético e técnicas avançadas.
-    - **Atividade Semanal:** Trabalhar em laboratórios de prática e simular ataques.
-  - **CISSP:** Prepare-se para o Certified Information Systems Security Professional.
-    - **Atividade Diária:** Revisar tópicos do exame e resolver questões práticas.
+
+**Recursos e Atividades:**
+
+1. **OSCP - Offensive Security Certified Professional**
+   - **Link:** [OSCP](https://www.offensive-security.com/pwk-oscp/)
+   - **Descrição:** Certificação avançada em hacking ético e pentesting.
+   - **Atividade Diária:** Estudar e praticar técnicas de pentesting.
+   - **Atividade Semanal:** Trabalhar em laboratórios e realizar simulações de ataques.
+
+2. **CISSP - Certified Information Systems Security Professional**
+   - **Link:** [CISSP](https://www.isc2.org/Certifications/CISSP)
+   - **Descrição:** Certificação abrangente em segurança da informação.
+   - **Atividade Diária:** Estudar tópicos do exame e resolver questões práticas.
+   - **Atividade Semanal:** Revisar áreas de dificuldade e realizar simulados.
 
 #### **Meses 17-18: Experiência Prática e Networking**
 
 **Semana 33-34: Participar de CTFs e Eventos**
 
 - **Objetivo:** Ganhar experiência prática e expandir sua rede de contatos.
-- **Recursos e Atividades:**
-  - **CTFs:** Participar de competições e resolver desafios.
-    - **Atividade Diária:** Trabalhar em desafios de CTF e colaborar com outros participantes.
-  - **Conferências:** Assistir a eventos como DEF CON e Black Hat.
-    - **Atividade Semanal:** Assistir a palestras e workshops relevantes.
+
+**Recursos e Atividades:**
+
+1. **Participação em CTFs**
+   - **Link:** [CTFtime](https://ctftime.org/)
+   - **Descrição:** Participar de competições de Capture The Flag.
+   - **Atividade Diária:** Resolver desafios de CTF e colaborar com a equipe.
+   - **Atividade Semanal:** Analisar desempenho e melhorar habilidades.
+
+2. **Conferências de Segurança**
+   - **Link:** [DEF CON](https://defcon.org/) e [Black Hat](https://www.blackhat.com/)
+   - **Descrição:** Participar de conferências de segurança para aprender e se conectar com profissionais.
+   - **Atividade Diária:** Assistir a palestras e workshops.
+   - **Atividade Semanal:** Participar de discussões e networking com especialistas da área.
 
 **Semana 35-36: Atualização e Networking**
 
-- **Objetivo:** Manter-se atualizado com as últimas tendências e expandir sua rede de contatos.
-- **Recursos e Atividades:**
-  - **LinkedIn:** Conectar-se com profissionais da área e participar de grupos.
-    - **Atividade Diária:** Ler e compartilhar artigos sobre cibersegurança.
-  - **Blogs e Newsletters:** Assinar e ler blogs e newsletters relevantes.
-    - **Atividade Semanal:** Atualizar-se com as últimas notícias e tendências em cibersegurança.
+- **Objetivo:** Manter-se atualizado e expandir sua rede de contatos.
+
+**Recursos e Atividades:**
+
+1. **LinkedIn - Networking e Atualização**
+   - **Link:** [LinkedIn](https://www.linkedin.com/)
+   - **Descrição:** Conectar-se com profissionais e participar de grupos.
+   - **Atividade Diária:** Ler e compartilhar artigos sobre cibersegurança.
+   - **Atividade Semanal:** Engajar-se em discussões e atualizar seu perfil com novas conquistas.
+
+2. **Blogs e Newsletters**
+   - **Link:** [Krebs on Security](https://krebsonsecurity.com/) e [Security Weekly](https://securityweekly.com/)
+   - **Descrição:** Manter-se atualizado com as últimas tendências e notícias de cibersegurança.
+   - **Atividade Diária:** Ler artigos e seguir atualizações.
+   - **Atividade Semanal:** Compartilhar insights e tendências com sua rede.
